@@ -13,7 +13,7 @@ This repository contains implementations of various algorithms in C. The algorit
 
 To compile and run an algorithm, use the following commands:
 
-###Algorithms
+##Algorithms
 
 Bellman Ford:
 The Bellman Ford algorithm is used to find the shortest paths from a single source vertex to all other vertices in a weighted graph.
