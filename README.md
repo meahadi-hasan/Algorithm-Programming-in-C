@@ -1,1 +1,1 @@
-# Algorithm-Programming-in-C
+# Algorithm Code in C Language.
